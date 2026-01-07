@@ -31,7 +31,7 @@ body {
     height: 70px;
     border-radius: 50%;
     object-fit: cover;
-    border: 0px solid #38bdf8;
+    border: 1px solid #f1f2f3;    
 }
 
 .header nav a {
@@ -125,4 +125,5 @@ footer {
         gap: 15px;
     }
 }
+
 
